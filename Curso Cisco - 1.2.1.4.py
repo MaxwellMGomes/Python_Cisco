@@ -1,0 +1,6 @@
+print ("Ola a todos")
+print("Hello!")
+print("Welcome to Python Essentials!")
+print("THIS IS SANDBOX MODE.")
+nome = input ('Qual seu nome?')
+print("ola {}, tudo bem contigo?".format(nome.upper()))
